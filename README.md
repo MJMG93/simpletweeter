@@ -43,6 +43,7 @@ The following **additional** features are implemented:
 
 - [x] Profile images loaded are the larger 73x73 versions
 
+https://imgur.com/a/PsdGg4N
 
 ## Notes
 
